@@ -161,6 +161,7 @@
   },
   "active": "b35bcfa4a50ff1fd",
   "lastOpenFiles": [
+    "20231218/src/tpl-cesta-produto-aberto/pom.xml",
     "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade/Produto.java",
     "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade/ItemCarrinho.java",
     "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade/CarrinhoCompras.java",
@@ -171,7 +172,6 @@
     "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade",
     "20231218/src/tpl-cesta-produto-aberto/src/test/java/br/ufpb/dcx/aps/atividade",
     "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps",
-    "20231218/src/tpl-cesta-produto-aberto/src/test/java/br/ufpb/dcx/aps",
     "20231218/src/tpl-cesta-produto-aberto/diagrama.png",
     "20231218/src/tpl-cesta-produto-aberto/README.md",
     "20231218/src/1-2-banco-saldo-transacao-rodrigor/README.md",
