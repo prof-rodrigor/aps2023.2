@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b35bcfa4a50ff1fd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "494df091861d357a",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md",
+                "file": "20231218/20231218.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md",
+                "file": "20231218/20231218.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md"
+                "file": "20231218/20231218.md"
+              }
+            }
+          },
+          {
+            "id": "176d4efa37b28576",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -151,16 +149,15 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b35bcfa4a50ff1fd",
+  "active": "4396ceececcecf85",
   "lastOpenFiles": [
+    "20231218/20231218 2023-12-18 08.18.45.excalidraw.md",
+    "20231218/20231218 2023-12-18 08.18.45.excalidraw.png",
     "20231218/src/tpl-cesta-produto-aberto/pom.xml",
     "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade/Produto.java",
     "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade/ItemCarrinho.java",
@@ -171,12 +168,10 @@
     "20231218/src/tpl-cesta-produto-aberto/src/test/java/br/ufpb/dcx/aps/atividade/CarrinhoComprasException.java",
     "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade",
     "20231218/src/tpl-cesta-produto-aberto/src/test/java/br/ufpb/dcx/aps/atividade",
-    "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps",
     "20231218/src/tpl-cesta-produto-aberto/diagrama.png",
     "20231218/src/tpl-cesta-produto-aberto/README.md",
     "20231218/src/1-2-banco-saldo-transacao-rodrigor/README.md",
     "20231218/20231218.md",
-    "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md",
     "README.md",
     "20231213/20231213.md",
     "20231213/20231213 2023-12-13 08.57.15.excalidraw.md",
