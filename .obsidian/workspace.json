@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "20231218/20231218.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b35bcfa4a50ff1fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md"
               }
             }
           }
@@ -147,8 +158,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fcb346903316e332",
+  "active": "b35bcfa4a50ff1fd",
   "lastOpenFiles": [
+    "20231218/20231218.md",
+    "Excalidraw/20231218 2023-12-18 08.18.45.excalidraw.md",
+    "Excalidraw",
+    "README.md",
+    "20231218",
     "20231213/20231213.md",
     "20231213/20231213 2023-12-13 08.57.15.excalidraw.md",
     "20231213/src/20231213 2023-12-13 08.57.15.excalidraw.png",
@@ -159,8 +175,6 @@
     "20231213/src/atv1-1/src/main/java/br/ufpb/dcx",
     "20231213/src/atv1-1/src/main/java/br/ufpb",
     "20231213/src/atv1-1/src/main/java/br",
-    "20231213/src/atv1-1/src/main/java",
-    "20231213/src/atv1-1/src/main",
-    "20231213/src/atv1-1/src"
+    "20231213/src/atv1-1/src/main/java"
   ]
 }
