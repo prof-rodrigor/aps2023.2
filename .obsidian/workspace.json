@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20231218/20231218 Composição versus Agregação.md",
+                "file": "20231220/20231220 Introdução testes unitários.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "29a5c94973782703",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20231218/20231218 Composição versus Agregação.md",
+                "file": "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20231218/20231218 Composição versus Agregação.md",
+                "file": "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20231218/20231218 Composição versus Agregação.md"
+                "file": "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md"
               }
             }
           },
@@ -154,26 +165,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4396ceececcecf85",
+  "active": "29a5c94973782703",
   "lastOpenFiles": [
-    "20231218/attachments",
+    "20231220/src/1-5-testesbasico/src/test/java/br/ufpb/dcx/rodrigor/atividade/AlunoTest.java",
+    "20231220/src/1-5-testesbasico/src/test/java/br/ufpb/dcx/rodrigor/atividade/ProfessorTest.java",
+    "20231220/src/1-5-testesbasico/src/test/java/br/ufpb/dcx/rodrigor/atividade/CursoTest.java",
+    "20231220/src/1-5-testesbasico/src/test/java/br/ufpb/dcx/rodrigor/atividade/AtividadeTest.java",
+    "20231220/src/1-5-testesbasico/src/main/java/br/ufpb/dcx/rodrigor/atividade/Professor.java",
+    "20231220/src/1-5-testesbasico/src/main/java/br/ufpb/dcx/rodrigor/atividade/Aluno.java",
+    "20231220/src/1-5-testesbasico/src/main/java/br/ufpb/dcx/rodrigor/atividade/App.java",
+    "20231220/src/1-5-testesbasico/src/test/java/br/ufpb/dcx/rodrigor/atividade",
+    "20231220/src/1-5-testesbasico/src/main/java/br/ufpb/dcx/rodrigor/atividade",
+    "20231220/src/1-5-testesbasico/src/test/java/br/ufpb/dcx/rodrigor",
+    "20231220/src/1-5-testesbasico/src/main/java/br/ufpb/dcx/rodrigor",
+    "20231220/src/1-5-testesbasico/README.md",
+    "20231220/20231220 Introdução testes unitários.md",
+    "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md",
+    "README.md",
+    "20231218/20231218 Composição versus Agregação.md",
     "20231218/attachments/20231218 2023-12-18 08.18.45.excalidraw.md",
     "20231218/attachments/20231218 2023-12-18 08.18.45.excalidraw.png",
-    "20231218/src/tpl-cesta-produto-aberto/pom.xml",
-    "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade/Produto.java",
-    "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade/ItemCarrinho.java",
-    "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade/CarrinhoCompras.java",
-    "20231218/src/tpl-cesta-produto-aberto/src/test/java/br/ufpb/dcx/aps/atividade/ProdutoTest.java",
-    "20231218/src/tpl-cesta-produto-aberto/src/test/java/br/ufpb/dcx/aps/atividade/ItemCarrinhoTest.java",
-    "20231218/src/tpl-cesta-produto-aberto/src/test/java/br/ufpb/dcx/aps/atividade/CarrinhoComprasTest.java",
-    "20231218/src/tpl-cesta-produto-aberto/src/test/java/br/ufpb/dcx/aps/atividade/CarrinhoComprasException.java",
-    "20231218/src/tpl-cesta-produto-aberto/src/main/java/br/ufpb/dcx/aps/atividade",
-    "20231218/src/tpl-cesta-produto-aberto/src/test/java/br/ufpb/dcx/aps/atividade",
     "20231218/src/tpl-cesta-produto-aberto/diagrama.png",
     "20231218/src/tpl-cesta-produto-aberto/README.md",
     "20231218/src/1-2-banco-saldo-transacao-rodrigor/README.md",
-    "20231218/20231218 Composição versus Agregação.md",
-    "README.md",
     "20231213/20231213.md",
     "20231213/20231213 2023-12-13 08.57.15.excalidraw.md",
     "20231213/src/20231213 2023-12-13 08.57.15.excalidraw.png"
