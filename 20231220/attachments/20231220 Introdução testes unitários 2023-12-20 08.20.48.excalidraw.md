@@ -34784,6 +34784,57 @@ tags: [excalidraw]
 			]
 		},
 		{
+			"id": "fxHDR-BelWhYsn7tm-Aao",
+			"type": "freedraw",
+			"x": 1158.5,
+			"y": 348.953125,
+			"width": 5,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1288266066,
+			"version": 5,
+			"versionNonce": 1503453070,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703077576589,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-4,
+					1
+				],
+				[
+					-5,
+					-9
+				],
+				[
+					-5,
+					-9
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-5,
+				-9
+			]
+		},
+		{
 			"id": "mgjKv4wD2xXTQ6gyLGEnm",
 			"type": "freedraw",
 			"x": -130.5,
