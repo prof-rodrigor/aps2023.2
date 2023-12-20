@@ -167,6 +167,7 @@
   },
   "active": "29a5c94973782703",
   "lastOpenFiles": [
+    "20231220/src/1-5-testesbasico/target/classes/br/ufpb/dcx/rodrigor/atividade/Aluno.class",
     "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade/ProfessorTest.class",
     "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade/CursoTest.class",
     "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade/AtividadeTest.class",
@@ -177,7 +178,6 @@
     "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb",
     "20231220/src/1-5-testesbasico/target/test-classes/br",
     "20231220/src/1-5-testesbasico/target/test-classes",
-    "20231220/src/1-5-testesbasico/target/generated-test-sources/test-annotations",
     "20231220/src/1-5-testesbasico/README.md",
     "20231220/20231220 Introdução testes unitários.md",
     "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md",
