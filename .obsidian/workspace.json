@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4fafa8a7bc301149",
+        "id": "472eba74620a3456",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb346903316e332",
+            "id": "f29ac6b9a20c760f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20231220/20231220 Introdução testes unitários.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a5c94973782703",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +146,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29a5c94973782703",
+  "active": "f29ac6b9a20c760f",
   "lastOpenFiles": [
+    "20231220/20231220 Introdução testes unitários.md",
+    "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md",
     "20231220/src/1-5-testesbasico/target/classes/br/ufpb/dcx/rodrigor/atividade/Aluno.class",
     "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade/ProfessorTest.class",
     "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade/CursoTest.class",
@@ -177,10 +160,7 @@
     "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx",
     "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb",
     "20231220/src/1-5-testesbasico/target/test-classes/br",
-    "20231220/src/1-5-testesbasico/target/test-classes",
     "20231220/src/1-5-testesbasico/README.md",
-    "20231220/20231220 Introdução testes unitários.md",
-    "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md",
     "README.md",
     "20231218/20231218 Composição versus Agregação.md",
     "20231218/attachments/20231218 2023-12-18 08.18.45.excalidraw.md",
