@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 519.5
   },
   "right": {
     "id": "494df091861d357a",
@@ -156,7 +156,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f29ac6b9a20c760f",
+  "active": "4396ceececcecf85",
   "lastOpenFiles": [
     "20240205/src/1-6-sca-testes-rodrigor/target/classes/br/ufpb/dcx/aps/atividades/atv04/AlunoInexistenteException.class",
     "20240205/src/1-6-sca-testes-rodrigor/target/classes/br/ufpb/dcx/aps/atividades/atv04/Turma.class",
