@@ -158,6 +158,7 @@
   },
   "active": "f29ac6b9a20c760f",
   "lastOpenFiles": [
+    "20240205/src/1-6-sca-testes-rodrigor/src/main/java/br/ufpb/dcx/aps/atividades/atv04/DisciplinaInexistenteException.java",
     "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb/dcx/aps/atividades/atv04/AtividadeTest.class",
     "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb/dcx/aps/atividades/atv04",
     "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb/dcx/aps/atividades",
@@ -168,7 +169,6 @@
     "20240205/src/1-6-sca-testes-rodrigor/target/classes/br/ufpb/dcx/aps/atividades/atv04/Turma.class",
     "20240205/src/1-6-sca-testes-rodrigor/target/classes/br/ufpb/dcx/aps/atividades/atv04/Professor.class",
     "20240205/src/1-6-sca-testes-rodrigor/target/classes/br/ufpb/dcx/aps/atividades/atv04/Disciplina.class",
-    "20240205/src/1-6-sca-testes-rodrigor/target/classes/br/ufpb/dcx/aps/atividades/atv04/Curso.class",
     "resolucoes-atividades/1-7-banco-facade-testes/diagramaBanco.png",
     "resolucoes-atividades/1-7-banco-facade-testes/README.md",
     "README.md",
