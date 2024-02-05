@@ -11,9 +11,11 @@
             "id": "f29ac6b9a20c760f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "20240205/Exceções.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20240205/Exceções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20240205/Exceções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20240205/Exceções.md"
+              }
             }
           },
           {
@@ -152,21 +158,23 @@
   },
   "active": "f29ac6b9a20c760f",
   "lastOpenFiles": [
-    "20231220/src/1-5-testesbasico/target/classes/br/ufpb/dcx/rodrigor/atividade/Aluno.class",
-    "20231220/src/1-5-testesbasico/src/main/java/br/ufpb/dcx/rodrigor/atividade/Aluno.java~",
+    "README.md",
+    "20240205/Exceções.md",
+    "20231220/src/1-6-sca-testes-rodrigor",
+    "20240205/src/1-6-sca-testes-rodrigor/src/test/java/br/ufpb/dcx/aps/atividades/atv04/AtividadeTest.java",
+    "20240205/src/1-6-sca-testes-rodrigor/src/main/java/br/ufpb/dcx/aps/atividades/atv04/Turma.java",
+    "20240205/src/1-6-sca-testes-rodrigor/src/main/java/br/ufpb/dcx/aps/atividades/atv04/Professor.java",
+    "20240205/src/1-6-sca-testes-rodrigor/src/main/java/br/ufpb/dcx/aps/atividades/atv04/Disciplina.java",
+    "20240205/src/1-6-sca-testes-rodrigor/src/main/java/br/ufpb/dcx/aps/atividades/atv04/Curso.java",
+    "20240205/src/1-6-sca-testes-rodrigor/src/main/java/br/ufpb/dcx/aps/atividades/atv04/App.java",
+    "20240205/src/1-6-sca-testes-rodrigor/src/main/java/br/ufpb/dcx/aps/atividades/atv04/Aluno.java",
+    "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb/dcx/aps/atividades/atv04/AtividadeTest.class",
+    "20240205/src/1-6-sca-testes-rodrigor/target/classes/br/ufpb/dcx/aps/atividades/atv04/Professor.class",
+    "20240205/src/1-6-sca-testes-rodrigor/README.md",
+    "20240205/src/1-6-sca-testes-rodrigor/diagrama.png",
     "20231220/20231220 Introdução testes unitários.md",
     "20231220/attachments/20231220 Introdução testes unitários 2023-12-20 08.20.48.excalidraw.md",
-    "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade/ProfessorTest.class",
-    "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade/CursoTest.class",
-    "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade/AtividadeTest.class",
-    "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade/AlunoTest.class",
-    "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor/atividade",
-    "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx/rodrigor",
-    "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb/dcx",
-    "20231220/src/1-5-testesbasico/target/test-classes/br/ufpb",
-    "20231220/src/1-5-testesbasico/target/test-classes/br",
     "20231220/src/1-5-testesbasico/README.md",
-    "README.md",
     "20231218/20231218 Composição versus Agregação.md",
     "20231218/attachments/20231218 2023-12-18 08.18.45.excalidraw.md",
     "20231218/attachments/20231218 2023-12-18 08.18.45.excalidraw.png",
