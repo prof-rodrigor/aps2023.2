@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "472eba74620a3456",
+        "id": "bf1cfb7c246e0f04",
         "type": "tabs",
         "children": [
           {
-            "id": "f29ac6b9a20c760f",
+            "id": "36eb5ffa705ffbfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "20240205/Exceções.md",
-                "mode": "source",
-                "source": false
+                "file": "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 519.5,
+    "collapsed": true
   },
   "right": {
     "id": "494df091861d357a",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240205/Exceções.md",
+                "file": "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240205/Exceções.md",
+                "file": "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240205/Exceções.md"
+                "file": "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md"
               }
             }
           },
@@ -156,8 +155,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4396ceececcecf85",
+  "active": "36eb5ffa705ffbfe",
   "lastOpenFiles": [
+    "20240207/20240207.md",
+    "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md",
+    "20240207/attachments",
+    "20240205/Exceções.md",
+    "20240207",
     "20240205/src/1-6-sca-testes-rodrigor.zip",
     "20240205/src/1-6-sca-testes-rodrigor/target/classes/br/ufpb/dcx/aps/atividades/atv04/AlunoInexistenteException.class",
     "20240205/src/1-6-sca-testes-rodrigor/target/classes/br/ufpb/dcx/aps/atividades/atv04/Turma.class",
@@ -166,13 +170,9 @@
     "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb/dcx/aps/atividades/atv04/AtividadeTest.class",
     "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb/dcx/aps/atividades/atv04",
     "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb/dcx/aps/atividades",
-    "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb/dcx/aps",
-    "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb/dcx",
-    "20240205/src/1-6-sca-testes-rodrigor/target/test-classes/br/ufpb",
     "resolucoes-atividades/1-7-banco-facade-testes/diagramaBanco.png",
     "resolucoes-atividades/1-7-banco-facade-testes/README.md",
     "README.md",
-    "20240205/Exceções.md",
     "20240205/src/1-6-sca-testes-rodrigor/README.md",
     "20240205/src/1-6-sca-testes-rodrigor/diagrama.png",
     "20231220/20231220 Introdução testes unitários.md",
