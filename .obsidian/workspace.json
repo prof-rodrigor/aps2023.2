@@ -4,20 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bf1cfb7c246e0f04",
+        "id": "b6980e043bed4ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "36eb5ffa705ffbfe",
+            "id": "14e1bf69792e01eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20240219/20240216 review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db7c0452292851b8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md"
+                "file": "20240219/attachments/20240216 review 2024-02-19 08.52.50.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md",
+                "file": "20240219/attachments/20240216 review 2024-02-19 08.52.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md",
+                "file": "20240219/attachments/20240216 review 2024-02-19 08.52.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md"
+                "file": "20240219/attachments/20240216 review 2024-02-19 08.52.50.excalidraw.md"
               }
             }
           },
@@ -155,21 +168,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36eb5ffa705ffbfe",
+  "active": "db7c0452292851b8",
   "lastOpenFiles": [
-    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/util/Texto.class",
-    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/util",
+    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/Exemplo.class",
     "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/SysAcademico.class",
-    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/DepartamentoException.class",
-    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/Turma.class",
-    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/Disciplina.class",
     "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/Departamento.class",
-    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/Curso.class",
+    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/NomeInvalidoException.class",
     "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/Aluno.class",
-    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico",
-    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/atividade/sysacademico",
-    "20240207/20240207.md",
+    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/src/main/java/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/Exemplo.java",
+    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/src/main/java/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/NomeInvalidoException.java~",
+    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/src/main/java/br/ufpb/dcx/rodrigor/atividade/sysacademico/controleAcademico/NomeInvalidoException.java",
+    "20240219/20240216 review.md",
+    "20240219/attachments/20240216 review 2024-02-19 08.52.50.excalidraw.md",
+    "20240219/attachments",
+    "20240219",
     "20240207/attachments/20240207 2024-02-07 08.22.16.excalidraw.md",
+    "resolucoes-atividades/1-8-sca-texto-memoria-rodrigor/target/classes/br/ufpb/dcx/rodrigor/util/Texto.class",
+    "20240207/20240207.md",
     "20240205/Exceções.md",
     "resolucoes-atividades/1-7-banco-facade-testes/diagramaBanco.png",
     "resolucoes-atividades/1-7-banco-facade-testes/README.md",
