@@ -8,7 +8,7 @@
 	<url>https://gitee.com/kinbug/SCA_GPT</url>
 
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>17</java.version>
 	</properties>
 
 	<dependencies>
@@ -17,11 +17,28 @@
 			<artifactId>gson</artifactId>
 			<version>2.9.1</version> <!-- Versão mais recente disponível -->
 		</dependency>
+
+		<!-- Dependência para JAXB API -->
 		<dependency>
-			<groupId>jakarta.xml.bind</groupId>
+			<groupId>javax.xml.bind</groupId>
 			<artifactId>jaxb-api</artifactId>
-			<version>4.0.1</version> <!-- Versão mais recente disponível -->
+			<version>2.3.1</version>
 		</dependency>
+
+		<!-- Implementação JAXB RI -->
+		<dependency>
+			<groupId>org.glassfish.jaxb</groupId>
+			<artifactId>jaxb-runtime</artifactId>
+			<version>2.3.1</version>
+		</dependency>
+
+		<!-- Dependências adicionais que podem ser necessárias -->
+		<dependency>
+			<groupId>javax.activation</groupId>
+			<artifactId>activation</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
