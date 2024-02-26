@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "494df091861d357a",
@@ -172,7 +171,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4396ceececcecf85",
+  "active": "f4732ae8a8e8d1c8",
   "lastOpenFiles": [
     "20240226/20240226 Interfaces.md",
     "20240226/attachments/20240226 Interfaces 2024-02-26 08.25.19.excalidraw.md",
